@@ -1,0 +1,53 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+    background-color:slateblue ;
+    height: 70px;
+}
+
+#logo{
+    margin: 5px 5px;
+}
+.t{
+    color: aliceblue;
+}
+header a{
+    color: slateblue ;
+    background-color: aliceblue;
+    text-decoration: none;
+    padding: 6px 4px;
+    border-radius:10px ;
+}
+h1{
+    background-color:slateblue ;
+    color: orange;
+    text-align: center;
+}
+.contacts{
+    background-color:slateblue ;
+    
+    color: orange;
+    text-align: center;
+}
+footer p{
+    border: 4px solid orange ;
+    color: aliceblue;
+    background-color:slateblue  ;
+    padding: 10px 10px ;
+}
+nav a{
+    color: aliceblue;
+    background-color:slateblue  ;
+    text-decoration: none;
+   padding: 5px 5px ;
+   margin-left:46px ;
+   border-radius:10px ;
+   margin-right: 46px; 
+   
+}
+
+nav{
+   margin-top: 15px; 
+}
